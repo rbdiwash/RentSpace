@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RentSpace</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_phone">Enter your Phone</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="already_registered_sign_in">Already Registered?Sign In</string>
+    <string name="profile_heading">Your Profile:</string>
+</resources>
